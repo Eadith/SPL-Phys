@@ -1,8 +1,9 @@
-# PulseMatch
+# SPL-Phys
 
 
 
-This is the main code repository of the paper "PulseMatch: Towards Semi-Supervised Deep Remote Photoplethysmography Measurement from Facial Video" for semi-supervised rPPG training.
+This is the main code repository of the paper "Advancing Semi-Supervised Remote Physiological Measurement via Selective
+Pseudo-label Learning" for semi-supervised rPPG training.
 
 
 ## Dataset Preprocessing
